@@ -1,0 +1,3 @@
+<?php
+
+comencemos el proyecto
