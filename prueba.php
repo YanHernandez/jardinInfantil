@@ -1,3 +1,3 @@
 <?php
 
-comencemos el proyecto
+Comencemos el proyecto
